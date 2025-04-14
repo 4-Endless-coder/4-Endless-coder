@@ -1,59 +1,61 @@
-👋 Hey there, I'm Ashesh Dash!
+👋 Hi, I'm Ashesh Dash
 
-💻 Front-End Developer | Learner | Creator
-
-I’m a passionate front-end developer based in Puri, India, currently sharpening my skills through the **Meta Front-End Developer Specialization** on Coursera.
+I'm a passionate Front-End Developer based in Puri, Odisha, currently learning and building projects to sharpen my skills in HTML, CSS, JavaScript, and React. I’m also exploring Full Stack Development and always eager to work on meaningful projects that solve real problems.
 
 ---
 
-🔧 Tech Stack:
-- **Languages & Markup:** HTML5 / CSS3 / JavaScript
-- **Frameworks & Tools:** Bootstrap / Flexbox / CSS Grid
-- **Version Control:** Git & GitHub
-- **Design:** Responsive Web Design, UI Components
-- **Currently Exploring:** React.js & DOM manipulation
+🌟 About Me
+
+- 🔭 Currently working on building my developer portfolio
+- 🌱 Learning React and completing the Meta Front-End Developer Certification on Coursera
+- 👯 Looking to collaborate on beginner to intermediate front-end projects
+- 💬 Ask me about HTML, CSS, responsive design, and getting started with JavaScript
+- 📫 Reach me at: [ashesh.dash@example.com](mailto:ashesh.dash@example.com)
+- ⚡ Fun fact: My name means **Endless** – just like my curiosity in tech!
 
 ---
 
-🤖 AI Tools I Use / Explore:
-- **ChatGPT (OpenAI):** For code assistance, learning, and debugging  
-- **GitHub Copilot:** AI-powered code completion in VS Code  
-- **Notion AI:** For managing project docs and brainstorming  
-- **Canva Magic Write:** Creating visuals and content quickly  
-- **Leonardo AI / Midjourney:** AI-generated assets and design ideas  
-- **Figma AI Plugins:** Design assistance and auto-layout suggestions  
-- **Uizard:** For turning hand-drawn wireframes into code  
-- **Codeium:** Free AI coding assistant  
+🛠️ Tech Stack
 
-> Always experimenting with tools to improve productivity & creativity 🚀
+- **Languages**: HTML, CSS, JavaScript
+- **Frameworks/Libraries**: Bootstrap, React (learning), Tailwind CSS (exploring)
+- **Tools**: VS Code, Git & GitHub, Figma, Canva, Termux
+- **Currently Learning**: JavaScript ES6+, Flexbox, Grid, React
 
 ---
 
-🧠 What I’m learning now:
-- React components, props & state
-- Building real-world UI projects
-- JavaScript best practices
+🤖 AI Tools I Use / Explore
+
+| Tool | What It’s For |
+|------|----------------|
+| **ChatGPT** (OpenAI) | Coding help, debugging, learning concepts |
+| **GitHub Copilot** | AI-powered code completion in VS Code |
+| **Perplexity AI** | Research, quick facts, summarized answers |
+| **Claude AI** (Anthropic) | Brainstorming, document summarizing, clean conversations |
+| **Lovable** | Personal AI agent with a focus on emotional intelligence |
+| **Codeium** | Free AI coding assistant, alternative to Copilot |
+| **Notion AI** | Documentation, idea expansion, and task summaries |
+| **Uizard** | Turns sketches into code & UI design wireframes |
+| **Figma AI Plugins** | Auto-layouts, design help, and copy suggestions |
+| **Canva Magic Write** | Social content and visual design assistance |
+| **Leonardo AI / Midjourney** | Creating AI-generated images for web or creative work |
+
+> 🧠 Constantly trying new AI tools to boost productivity, creativity, and learning.
 
 ---
 
-🌱 What I’m working on:
-- Personal Portfolio Website  
-- Mini Projects to practice front-end skills  
-- UI Clones & Layout Challenges
+📊 GitHub Stats
+
+Ashesh's GitHub stats-(https://github-readme-stats.vercel.app/api?username=asheshdash&show_icons=true&theme=radical)
 
 ---
 
-🛠 Tools I Use:
-- **Code:** VS Code, Termux
-- **Version Control:** Git & GitHub
-- **Design & Preview:** Live Server, DevTools
-- **Learning:** Coursera, MDN, FreeCodeCamp
+🌐 Let’s Connect!
 
-📫 Let’s Connect!
-- Email: asheshdash4@gmail.com *(for collaboration or work opportunities)*
-- Portfolio: [Coming Soon!]
-- LinkedIn: www.linkedin.com/in/ashesh-dash-web-dev
-- Dev Community: [Coming Soon!]
+- Portfolio Website-Coming Soon!
+- LinkedIn- www.linkedin.com/in/ashesh-dash-web-dev
+- [Twitter](https://twitter.com/asheshdash)
+
 
 ---
 
