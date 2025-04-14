@@ -21,15 +21,15 @@ I’m a passionate front-end developer based in Puri, India, currently sharpenin
 - Cloning websites to practice layout and design
 
 🛠 Tools I Use:
-- VS Code, Git & GitHub
+- VS Code,Cursor Ai, Git & GitHub
 - Chrome DevTools
 - Termux for code on the go
 
 📫 Let’s Connect!
-- Email: santoshidash9876@gmail.com *(for collaboration or work opportunities)*
+- Email: asheshdash4@gmail.com *(for collaboration or work opportunities)*
 - Portfolio: [Coming Soon!]
-- LinkedIn: [Your LinkedIn Link]
-- Dev Community: [If applicable]
+- LinkedIn: www.linkedin.com/in/ashesh-dash-web-dev
+- Dev Community: [Coming Soon!]
 
 ---
 
