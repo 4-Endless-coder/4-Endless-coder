@@ -10,7 +10,7 @@ I'm a passionate Front-End Developer based in Puri, Odisha, currently learning a
 - 🌱 Learning React and completing the Meta Front-End Developer Certification on Coursera
 - 👯 Looking to collaborate on beginner to intermediate front-end projects
 - 💬 Ask me about HTML, CSS, responsive design, and getting started with JavaScript
-- 📫 Reach me at: [ashesh.dash@example.com](mailto:ashesh.dash@example.com)
+- 📫 Reach me at: [asheshdash4@gmail.com](mailto:ashesh.dash@example.com)
 - ⚡ Fun fact: My name means **Endless** – just like my curiosity in tech!
 
 ---
