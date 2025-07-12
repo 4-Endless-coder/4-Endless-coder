@@ -10,8 +10,8 @@
 ## Interesting Facts !!! 🤔
 
 - 🔭 I love Problem Solving ans Single Page Application Development !!!
-- 🚀 **visit my Portfolio @ [Ashesh Dash](https://github.com/4-Endless-coder/Portfolio)**
-- 🌱 currently Playing with Web Dev 🤣
+- 🚀 **visit my Portfolio @ [Ashesh Dash]([https://github.com/4-Endless-coder/Portfolio](https://myportfolio-iota-hazel-81.vercel.app/))**
+- 🌱 Currently Working with Web Dev 
 - 💬 Ask me about Design Thinking and Outstanding Presentations 
 - 📫 How to reach me: [asheshdash4@gmail.com](mailto:asheshdash4@.com)
 - 🤔 I’m looking to collaborate on Front-end web development
