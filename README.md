@@ -1,8 +1,4 @@
 <div align="center">
-  <a href="https://asheshdash.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/4-Endless-coder/modern-folio-blaze/main/src/assets/profile-ashesh.webp" alt="Ashesh Dash Profile Picture" width="150" style="border-radius: 50%; border: 3px solid #F59E0B;"/>
-     </a>
-
   <h1>
     Hey there, I'm Ashesh Dash 👋
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
