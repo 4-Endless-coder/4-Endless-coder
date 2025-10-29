@@ -1,6 +1,8 @@
 ## Hi there, I'm [Ashesh Dash](https://github.com/4-Endless-coder) 👋👋
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=0f403d&lines=I'm+a+Front-end+Web+Developer;I'm+a+Student+Coordinator;I'm+a+Design+Thinker;I+create+outstanding+presentations;I'm+interested+to+develop+new+things)
+ <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=F59E0B&background=FFFFFF00&center=true&width=600&lines=Frontend+Developer+🚀;Building+Modern+Web+Experiences+✨;Problem+Solver+%26+Lifelong+Learner+💡" alt="Typing SVG" />
+  </a>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
