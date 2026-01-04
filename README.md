@@ -17,7 +17,7 @@
 I'm a passionate **Frontend Developer** dedicated to crafting beautiful, functional, and user-centric web applications. I thrive on turning complex problems into elegant solutions and continuously expanding my skillset in the ever-evolving world of web development. My focus is on building **responsive**, **performant**, and **accessible** interfaces using modern technologies.
 
 * 🌱 Currently mastering **Backend Development** (Node.js, Express) & **Databases** (MongoDB).
-* 🔭 Actively enhancing my personal **[Modern Folio Blaze](https://github.com/4-Endless-coder/modern-folio-blaze)** project.
+* 🔭 Actively enhancing my personal **[Modern Folio Blaze](https://asheshdash.vercel.app/)** project.
 * 👯 Open to collaborating on innovative **React** or **JavaScript** projects.
 * 🤔 Seeking deeper insights into advanced **state management** patterns.
 * 💬 Ask me about **React**, **JavaScript**, **CSS**, modern **Frontend Tooling**, and **UI/UX principles**.
