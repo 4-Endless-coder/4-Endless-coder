@@ -1,15 +1,23 @@
+<div align="center">
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=4-Endless-coder&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
----
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=10&center=true&vCenter=true&width=435&lines=Hello!+I'm+Ashesh+Dash;Frontend+React+Developer;UI%2FUX+Enthusiast;Welcome+to+my+profile;Let's+build+something+cool!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=10&center=true&vCenter=true&width=435&lines=Hello!+I'm+Ashesh+Dash;Frontend+React+Developer;UI%2FUX+Enthusiast;Welcome+to+my+profile;Let's+build+something+cool!" alt="Typing SVG" />
+</a>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="divider" />
-  <h1 align="center" style="font-size: 38px; font-family: 'Poppins', sans-serif; font-weight: 700;">
-    🚀 Crafting Pixel-Perfect <span style="color:#61DAFB;">Web Experiences</span> ⚛️
-  </h1>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="divider" />
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="divider" />
+
+<h1 align="center" style="font-size: 38px; font-family: 'Poppins', sans-serif; font-weight: 700;">
+  🚀 Crafting Pixel-Perfect <span style="color:#61DAFB;">Web Experiences</span> ⚛️
+</h1>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="divider" />
+
 </div>
 
 - 👋 I’m **Ashesh Dash**, a passionate developer from **Bhubaneswar, Odisha**.
@@ -44,22 +52,100 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=61DAFB&background=000000FA&center=true&vCenter=true&width=600&lines=React+%26+Vite+Specialist;Tailwind+CSS+Mastery;Building+Responsive+Web+Apps)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=61DAFB&background=000000FA&center=true&vCenter=true&width=600&lines=React+%26+Vite+Specialist;Tailwind+CSS+Mastery;Building+Responsive+Web+Apps" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45" /> Technologies & Tools
 
+<table align="center">
+  <tr>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" /><br>JavaScript</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" /><br>React</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" /><br>TypeScript</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=html" width="65" /><br>HTML5</td>
+  </tr>
+  <tr>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=css" width="65" /><br>CSS3</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=tailwind" width="65" /><br>Tailwind CSS</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=redux" width="65" /><br>Redux</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=jquery" width="65" /><br>jQuery</td>
+  </tr>
+  <tr>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=vite" width="65" /><br>Vite</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=figma" width="65" /><br>Figma</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=netlify" width="65" /><br>Netlify</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=git" width="65" /><br>Git</td>
+  </tr>
+  <tr>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=github" width="65" /><br>GitHub</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br>GitHub Actions</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=vscode" width="65" /><br>VS Code</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=powershell" width="65" /><br>PowerShell</td>
+  </tr>
+</table>
+
+## ⚙️ DevOps & Deployment
+
+<table align="center">
+  <tr>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br>GitHub Actions</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=netlify" width="65" /><br>Netlify</td>
+  </tr>
+</table>
+
+---
+
+## ✨ GitHub Stats
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,vite,ts,html,css,tailwind,github&perline=8" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=redux,figma,jest,bun,nodejs,git,vscode,powershell&perline=8" />
+
+[![4-Endless-coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=4-Endless-coder&show_icons=true&title_color=61DAFB&text_color=F8F8F2&bg_color=161B22&hide_border=true)](https://github.com/4-Endless-coder)
+
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4-Endless-coder&theme=radical&background=0D1117&ring=61DAFB&fire=60A5FA&stroke=1f2937&hide_border=true)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4-Endless-coder&layout=compact&langs_count=8&title_color=61DAFB&text_color=F8F8F2&bg_color=161B22&hide_border=true)](https://github.com/4-Endless-coder)
+
 </div>
 
-## ⚙️ Deployment & DevOps
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=4-Endless-coder&theme=radical&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions,npm&perline=8" />
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=4-Endless-coder&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Ashesh's%20Contribution%20Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=4-Endless-coder&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Ashesh's%20Contribution%20Graph" width="100%" alt="Activity Graph" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4-Endless-coder/4-Endless-coder/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4-Endless-coder/4-Endless-coder/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/4-Endless-coder/4-Endless-coder/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
 ---
