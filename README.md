@@ -100,24 +100,6 @@
 
 ---
 
-## ✨ GitHub Stats
-
-<div align="center">
-
-[![4-Endless-coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=4-Endless-coder&show_icons=true&title_color=61DAFB&text_color=F8F8F2&bg_color=161B22&hide_border=true)](https://github.com/4-Endless-coder)
-
-<br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4-Endless-coder&theme=radical&background=0D1117&ring=61DAFB&fire=60A5FA&stroke=1f2937&hide_border=true)
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4-Endless-coder&layout=compact&langs_count=8&title_color=61DAFB&text_color=F8F8F2&bg_color=161B22&hide_border=true)](https://github.com/4-Endless-coder)
-
-</div>
-
----
-
 ## 🏆 Trophies
 
 <p align="center">
@@ -173,7 +155,3 @@
   <a href="https://www.linkedin.com/in/ashesh-dash-web-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashesh Dash LinkedIn" height="30" width="40" /></a> <a href="mailto:asheshdash4@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Ashesh Dash Email" height="30" width="40" style="filter: invert(34%) sepia(93%) saturate(3477%) hue-rotate(345deg) brightness(90%) contrast(92%);"/></a> <a href="https://leetcode.com/u/4-endless-coder/" target="blank"><img align="center" src="https://simpleicons.org/icons/leetcode.svg" alt="Ashesh Dash Leetcode" height="30" width="40" style="filter: invert(68%) sepia(48%) saturate(1478%) hue-rotate(358deg) brightness(100%) contrast(99%);"/></a> <a href="https://asheshdash.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/portfolio.png" alt="Ashesh Dash Portfolio" height="30" width="40" /></a> </p>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=4-Endless-coder&label=Profile%20views&color=orange&style=flat" alt="Profile views" />
-</div>
