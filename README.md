@@ -78,12 +78,6 @@
   <tr>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=vite" width="65" /><br>Vite</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=figma" width="65" /><br>Figma</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=netlify" width="65" /><br>Netlify</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=git" width="65" /><br>Git</td>
-  </tr>
-  <tr>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=github" width="65" /><br>GitHub</td>
-    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br>GitHub Actions</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=vscode" width="65" /><br>VS Code</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=powershell" width="65" /><br>PowerShell</td>
   </tr>
@@ -93,11 +87,16 @@
 
 <table align="center">
   <tr>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=git" width="65" /><br>Git</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=github" width="65" /><br>GitHub</td>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br>GitHub Actions</td>
+  </tr>
+  <tr>
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=netlify" width="65" /><br>Netlify</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=firebase" width="65" /><br>Firebase</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=vercel" width="65" /><br>Vercel</td>
   </tr>
 </table>
-
 ---
 
 ## 🏆 Trophies
