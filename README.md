@@ -97,7 +97,6 @@
     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=vercel" width="65" /><br>Vercel</td>
   </tr>
 </table>
----
 
 ## 🏆 Trophies
 
